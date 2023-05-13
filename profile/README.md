@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+We are Audavis - we will change the world for some people
+
+![Banner](Artboard%2011.jpg)
+
 <!--
 
 **Here are some ideas to get you started:**
