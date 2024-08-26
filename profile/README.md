@@ -2,7 +2,7 @@
 
 We are Audavis - we will change the world for some people
 
-![Banner](profile/Artboard%2011.jpg)
+![Banner](Artboard%2011.jpg)
 
 <!--
 
